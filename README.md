@@ -1,3 +1,5 @@
+# Creating Artificial Human Faces with Variational Autoencoders
+
 ## Introduction
 The project is dedicated to exploring how Variational Autoencoders (VAEs) differ from traditional Autoencoders (AEs) and how they can be used as generative models. The core of the work focuses on generating artificial human faces that visually resemble the real faces from the training data (CelebA dataset) as closely as possible.
 
